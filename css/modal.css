@@ -145,6 +145,10 @@
 .modal-form-input:focus + .modal-form-icon {
   color: #4d5ae5;
 }
+
+.modal-form-field-comment {
+  margin-bottom: 16px;
+}
 .modal-form-comment {
   width: 100%;
   height: 120px;
