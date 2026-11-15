@@ -27,7 +27,7 @@ a {
   color: inherit;
 }
 button {
-    cursor: pointer;
+  cursor: pointer;
 }
 address {
   font-style: normal;
@@ -77,8 +77,6 @@ img {
   padding: 0 15px;
   margin: 0 auto;
 
-  outline: 2px solid red;
-  outline-offset: -2px;
 }
 
 .socials-list {
@@ -101,7 +99,6 @@ img {
   border-radius: 50%;
   background-color: #4d5ae5;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  
 }
 .socials-icon {
   display: block;
@@ -112,3 +109,4 @@ img {
 .socials-link:focus {
   border-radius: 50%;
 }
+
